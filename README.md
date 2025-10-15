@@ -10,11 +10,11 @@
 
 
 
-\## 🧠 Methodology
+\##🧠 Methodology
 
 
 
-\### 🧹 1. Data Preprocessing
+\###🧹 1. Data Preprocessing
 
 \- Clean text (remove punctuation, non-alphabetic chars)
 
