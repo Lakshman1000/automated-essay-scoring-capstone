@@ -28,7 +28,6 @@ The workflow covers:
 | `score`    | Human-assigned numeric grade|
 
 > Dataset is restricted to academic use and not publicly shared.  
-> A small `sample_train.csv` may be included for demonstration.
 
 ---
 
